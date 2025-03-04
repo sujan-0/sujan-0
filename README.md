@@ -29,9 +29,9 @@
 
 ## 📌 Notable Projects  
 
-### **🔹 Citizen Grievance Application & Tracking (Final Year Project)**  
+### **🔹 Citizen Grievance Application & Tracking System (Final Year Project)**  
 📌 **Stack:** MERN (MongoDB, Express.js, React.js, Node.js)  
-🛠️ **Description:** Built a platform for local governments to efficiently track and manage citizen grievances.  
+🛠️ **Description:** Built a platform for local governments to efficiently track and manage day-to-day citizen grievances.  
 
 ### **🔹 Pet Adoption System (Backend Developer)**  
 📌 **Stack:** Node.js, Express.js, MongoDB  
