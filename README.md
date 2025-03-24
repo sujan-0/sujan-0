@@ -42,7 +42,8 @@
 🛠️ **Description:** Created a dynamic weather application fetching real-time data using APIs.  
 
 ### **🔹 Course Management System**  
-📌 **Stack:** JAVA, 
+📌 **Stack:** JAVA
+ 
 🛠️ **Description:** Developed a full stack course management software for school/colleges.  
 
 
