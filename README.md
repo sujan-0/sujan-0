@@ -43,7 +43,6 @@
 
 ### **🔹 Course Management System**  
 📌 **Stack:** JAVA
- 
 🛠️ **Description:** Developed a full stack course management software for school/colleges.  
 
 
@@ -57,4 +56,5 @@
 🌐 [GitHub](https://github.com/sujan-0)  
 💼 [LinkedIn](https://www.linkedin.com/in/sujan-khatiwoda-12982026a/)  
 📧 **Email:** Sujankhatiwoda0206@gmail.com
+🌐 **Website:** www.sujankhatiwoda.com.np
 
