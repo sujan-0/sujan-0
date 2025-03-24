@@ -41,9 +41,9 @@
 📌 **Stack:** HTML, CSS, JavaScript, PHP  
 🛠️ **Description:** Created a dynamic weather application fetching real-time data using APIs.  
 
-### **🔹 Ecommerce UI (Frontend Design)**  
-📌 **Stack:** HTML, CSS  
-🛠️ **Description:** Developed a sleek and responsive UI for an ecommerce platform.  
+### **🔹 Course Management System **  
+📌 **Stack:** JAVA, 
+🛠️ **Description:** Developed a full stack course management software for school/colleges.  
 
 
 ## 🎯 Certifications & Achievements  
