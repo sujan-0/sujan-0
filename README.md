@@ -41,7 +41,7 @@
 📌 **Stack:** HTML, CSS, JavaScript, PHP  
 🛠️ **Description:** Created a dynamic weather application fetching real-time data using APIs.  
 
-### **🔹 Course Management System **  
+### **🔹 Course Management System**  
 📌 **Stack:** JAVA, 
 🛠️ **Description:** Developed a full stack course management software for school/colleges.  
 
