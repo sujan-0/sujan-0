@@ -57,7 +57,7 @@
 🌐 **GitHub:** [sujan-0](https://github.com/sujan-0)  
 💼 **LinkedIn:** [Sujan Khatiwoda](https://www.linkedin.com/in/sujan-khatiwoda-12982026a/)  
 📧 **Email:** Sujankhatiwoda0206@gmail.com  
-🌐 **Portfolio:** [www.sujankhatiwoda.com.np](http://www.sujankhatiwoda.com.np)  
+🌐 **Website :** [www.sujankhatiwoda.com.np](http://www.sujankhatiwoda.com.np)  
 
 ---
 
