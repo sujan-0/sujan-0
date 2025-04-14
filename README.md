@@ -58,7 +58,7 @@
 💼 **LinkedIn:** [Sujan Khatiwoda](https://www.linkedin.com/in/sujan-khatiwoda-12982026a/)  
 📧 **Email:** Sujankhatiwoda0206@gmail.com  
 🌐 **Website :** [www.sujankhatiwoda.com.np](http://www.sujankhatiwoda.com.np)  
-🧠 **LeetCode:** sujankhatiwoda
+🧠 **LeetCode:** [sujankhatiwoda](https://leetcode.com/u/sujankhatiwoda/)  
 
 ---
 
