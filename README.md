@@ -46,6 +46,14 @@
 
 ---
 
+## 📽️ Project Demos & Access  
+
+Some of my **major projects are currently in private repositories** due to university policies, collaborations, or deployment constraints.  
+If you're interested in a **demo or want to access these projects**, feel free to reach out using the contact details below.  
+I’m happy to provide access or walk you through a project if it’s for **collaboration, hiring, or learning purposes.**  
+
+---
+
 ## 🏆 Certifications & Achievements  
 ✅ **Microsoft & CodefreeCamp Certifications** (C# & Game Development)  
 ✅ **Hands-on Experience in Cloud Hosting** (Azure & AWS)  
