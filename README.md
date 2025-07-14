@@ -55,7 +55,8 @@ If you'd like to view a demo or explore any of these projects for **recruitment,
 
 ## 🏅 Certifications & Highlights  
 
-- ✅ Microsoft & CodefreeCamp Certifications (C# & Game Development)  
+- ✅ Microsoft & CodefreeCamp Certifications (C# & Game Development)
+- ✅ Agile Scrum Master Certification
 - ✅ Hands-on Experience in Cloud Deployment (Azure, AWS)  
 - ✅ Strong Knowledge of Data Structures & Algorithms (DSA)  
 
