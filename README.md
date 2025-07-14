@@ -1,73 +1,75 @@
 # 🌟 Sujan Khatiwoda | Full-Stack MERN Developer  
 
-🚀 **Aspiring Full-Stack Developer | AI & ML Enthusiast | Cloud & Big Data Explorer**  
+🚀 **Full-Stack Developer | AI & ML Enthusiast | Cloud & Big Data Explorer**
 
-👋 Hi! I'm **Sujan Khatiwoda**, a passionate **Computer Science student** specializing in **AI & ML, Cloud Computing, and Big Data**. I enjoy building efficient, scalable, and user-friendly applications that solve real-world problems.  
+Hi there! I'm **Sujan Khatiwoda**, a dedicated Computer Science Graduate passionate about building scalable, intuitive, and impactful software solutions. I specialize in **MERN Stack development**, with a strong interest in **Artificial Intelligence**, **Cloud Computing**, and **Big Data**.  
 
 ---
 
-## 🛠️ Technologies & Skills  
+## 🛠️ Technical Skills  
 
-### **💻 Programming Languages**  
+### 💻 Programming Languages  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Python, Java, PHP  
 - **General Purpose:** C, C#  
 
-### **🌐 Web Development**  
-- **Frontend:** React.js, Figma (UI/UX Design)  
+### 🌐 Web Development  
+- **Frontend:** React.js, UI/UX with Figma  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, MySQL  
-- **Cloud & DevOps:** Azure, AWS, Git/GitHub  
+- **Version Control & DevOps:** Git, GitHub, Azure, AWS  
 
-### **🤖 AI & Machine Learning**  
-- **ML Algorithms:** Regression, Classification, Clustering  
-- **Deep Learning:** CNNs, RNNs, Transformers (BERT, GPT)  
-- **Tools & Frameworks:** Scikit-learn, TensorFlow, PyTorch  
-
----
-
-## 🚀 Notable Projects  
-
-### **🔹 Citizen Grievance Application & Tracking System**  
-📌 **Stack:** MERN (MongoDB, Express.js, React.js, Node.js)  
-🛠️ **Description:** Developed a platform for local governments to efficiently track and manage citizen grievances, ensuring transparency and accountability.  
-
-### **🔹 Pet Adoption System**  
-📌 **Stack:** Node.js, Express.js, MongoDB  
-🛠️ **Description:** Designed and implemented backend APIs for a pet adoption platform, focusing on security, scalability, and seamless integration with the frontend.  
-
-### **🔹 Weather App**  
-📌 **Stack:** HTML, CSS, JavaScript, PHP  
-🛠️ **Description:** Built a dynamic weather application that fetches real-time weather data using third-party APIs, providing users with accurate forecasts.  
-
-### **🔹 Course Management System**  
-📌 **Stack:** Java  
-🛠️ **Description:** Developed a full-stack course management system for educational institutions, enabling efficient management of courses, students, and faculty.  
+### 🤖 AI & Machine Learning  
+- **Algorithms:** Regression, Classification, Clustering  
+- **Deep Learning:** CNN, RNN, Transformers (BERT, GPT)  
+- **Frameworks & Tools:** Scikit-learn, TensorFlow, PyTorch  
 
 ---
 
-## 📽️ Project Demos & Access  
+## 🚀 Featured Projects  
 
-Some of my **major projects are currently in private repositories** due to university policies, collaborations, or deployment constraints.  
-If you're interested in a **demo or want to access these projects**, feel free to reach out using the contact details below.  
-I’m happy to provide access or walk you through a project if it’s for **collaboration, hiring, or learning purposes.**  
+### 📍 Citizen Grievance Application & Tracking System  
+**Stack:** MERN  
+**Overview:** Built a full-fledged platform for local governments to manage and resolve citizen complaints efficiently, with real-time tracking and status updates.  
 
----
+### 📍 Pet Adoption System  
+**Stack:** Node.js, Express.js, MongoDB  
+**Overview:** Developed backend APIs for a secure and scalable pet adoption system, enabling seamless user interaction and data handling.  
 
-## 🏆 Certifications & Achievements  
-✅ **Microsoft & CodefreeCamp Certifications** (C# & Game Development)  
-✅ **Hands-on Experience in Cloud Hosting** (Azure & AWS)  
-✅ **Proficient in Data Structures & Algorithms (DSA)**  
+### 📍 Weather Forecast App  
+**Stack:** HTML, CSS, JavaScript, PHP  
+**Overview:** A weather dashboard fetching real-time data using APIs, displaying live weather updates with a user-friendly interface.  
 
----
-
-## 📫 Let's Connect!  
-🌐 **GitHub:** [sujan-0](https://github.com/sujan-0)  
-💼 **LinkedIn:** [Sujan Khatiwoda](https://www.linkedin.com/in/sujan-khatiwoda-12982026a/)  
-📧 **Email:** Sujankhatiwoda0206@gmail.com  
-🌐 **Website :** [www.sujankhatiwoda.com.np](http://www.sujankhatiwoda.com.np)  
-🧠 **LeetCode:** [sujankhatiwoda](https://leetcode.com/u/sujankhatiwoda/)  
+### 📍 Course Management System  
+**Stack:** Java  
+**Overview:** Designed and implemented a management system for handling courses, students, and instructors in educational institutions.  
 
 ---
 
-💡 **Always learning, always building!** Let's collaborate and create something amazing together! 🚀
+## 📂 Project Access & Demos  
+
+Some of my major projects are in **private repositories** due to institutional guidelines or collaborative development.  
+If you'd like to view a demo or explore any of these projects for **recruitment, collaboration, or learning**, feel free to reach out!  
+
+---
+
+## 🏅 Certifications & Highlights  
+
+- ✅ Microsoft & CodefreeCamp Certifications (C# & Game Development)  
+- ✅ Hands-on Experience in Cloud Deployment (Azure, AWS)  
+- ✅ Strong Knowledge of Data Structures & Algorithms (DSA)  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sujan-khatiwoda-12982026a/)  
+- 🌐 [Website](http://www.sujankhatiwoda.com.np)  
+- 🧠 [LeetCode](https://leetcode.com/u/sujankhatiwoda/)  
+- 📧 Email: **Sujankhatiwoda0206@gmail.com**  
+- 🐙 GitHub: [sujan-0](https://github.com/sujan-0)  
+
+---
+
+💡 *“Striving to learn, build, and innovate every single day.”*  
+Let’s collaborate and bring ideas to life! 🚀
